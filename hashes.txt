@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Danza del deseo
+
+This log tracks the cryptographic history and versioning for the song **Danza del deseo** (danza-del-deseo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T23:11:39.234036 | `v1` | `115b9f97ec2c81a1f65d16bef3559d10354cf3b2865037706e8cb554058b673c` | `ff7d8defdb565cc258d6a6dc1e7e7f6c82e62014d41892a3721093a7659a7aff` | `2026-06-16_danza-del-deseo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/danza-del-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Danza del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-del-deseo/) |
+| **Get License** | [Request Licensing for Danza del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-del-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `115b9f97ec2c81a1f65d16bef3559d10354cf3b2865037706e8cb554058b673c` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
