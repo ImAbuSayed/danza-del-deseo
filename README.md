@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/danza-del-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Danza del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-del-deseo/) |
+| **Get License** | [Official Music Licensing for Danza del deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/danza-del-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y la disco pierde la gravedad
+> Una tensión en el aire que no se puede ocultar
+> Nos vamos a poca luz, solitos en la ciudad
+> Bailando la danza del deseo, sin marcha atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
